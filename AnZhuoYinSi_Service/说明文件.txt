@@ -1,0 +1,8 @@
+项目地址：
+http://localhost:8080/admin/dist/index.html
+
+
+管理员账号：
+admin     123456
+警员账号：
+jy001       jy001
